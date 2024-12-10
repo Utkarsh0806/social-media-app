@@ -1,0 +1,29 @@
+.root{
+    display: flex;
+}
+.ctn{
+    width: 100vw;
+}
+.post-card{
+    margin: 20px 50px;
+}
+.post-tag{
+    margin-right: 3px;
+}
+.reactions{
+    margin: 15px 0 0 0;
+}
+.deletePost{
+    cursor: pointer;
+}
+.create-post{
+    width: 80%;
+    margin-top: 50px;
+    margin-left: 10%;
+}
+.welcome-heading{
+    margin: 10% 0;
+}
+.spinner{
+    margin-top: 10%;
+}
